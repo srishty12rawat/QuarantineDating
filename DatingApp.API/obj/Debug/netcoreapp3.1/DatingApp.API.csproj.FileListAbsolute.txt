@@ -56,3 +56,7 @@ E:\Repositories\QuarantineDating\QuarantineDating\DatingApp.API\bin\Debug\netcor
 E:\Repositories\QuarantineDating\QuarantineDating\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 E:\Repositories\QuarantineDating\QuarantineDating\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.csproj.CopyComplete
 E:\Repositories\QuarantineDating\QuarantineDating\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Repositories\QuarantineDating\QuarantineDating\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Repositories\QuarantineDating\QuarantineDating\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Repositories\QuarantineDating\QuarantineDating\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Repositories\QuarantineDating\QuarantineDating\DatingApp.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
